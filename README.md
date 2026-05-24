@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Niranjan! 👋
 
-<!--
-**niranjanrao13/niranjanrao13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭I am a data science professional with 2.5+ years of experience in architecting and building products in various domains of retail, including supply chain optimization, digital marketing, and promotions. I am working in this capacity at Target, a Fortune 50 company, and one of the world's largest retailers.
+ 
+💼I possess deep knowledge about building AI systems and training neural networks by leveraging concepts from Natural Language Processing (NLP), Deep Learning, Graph Neural Networks, classical Machine Learning techniques like Gradient Boosting, Random Forests and XGBoost. I have also participated and achieved accolades at several hackathons where I built Generative AI (GenAI) applications to create chatbots and text2sql solutions for enterprise applications.
 
-Here are some ideas to get you started:
+💻I am well versed with ML/AI fundamentals and am adept at applying them at scale to take solutions from the POC stage to full-fledged products. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱My strong skills include:
+- Languages like Python, C/C++, SQL, R
+- ML/AI Frameworks like PyTorch, PyTorch-Geometric, scikit-learn, TensorFlow
+- LLMs/ Gen AI frameworks like LangChain, LlamaIndex, ChromaDB, Vertex AI LLM APIs
+- Big Data & MLOps platforms like  PySpark, Apache Spark, Kubernetes Flow Pipelines, Dataproc, Docker
+- Infrastructure like Google Cloud Platform, Vertex AI, Git, JupyterLab, VS Code, GitHub Copilot
+
+🎓I am a postgraduate in Data Science and Analytics from the Indian Institute of Science, and a graduate from the prestigious Birla Institute of Technology and Science, Pilani. I interned with Mastercard as a product manager, formulating their Go-To-Market Strategy for cybersecurity products. I also interned as a quantitative researcher for State Street Global Advisors, developing strategies for identifying alpha in fixed-income asset portfolios.
+
