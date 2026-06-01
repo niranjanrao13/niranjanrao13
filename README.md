@@ -12,6 +12,3 @@
 - LLMs/ Gen AI frameworks like LangChain, LlamaIndex, ChromaDB, Vertex AI LLM APIs
 - Big Data & MLOps platforms like  PySpark, Apache Spark, Kubernetes Flow Pipelines, Dataproc, Docker
 - Infrastructure like Google Cloud Platform, Vertex AI, Git, JupyterLab, VS Code, GitHub Copilot
-
-🎓I am a postgraduate in Data Science and Analytics from the Indian Institute of Science, and a graduate from the prestigious Birla Institute of Technology and Science, Pilani. I interned with Mastercard as a product manager, formulating their Go-To-Market Strategy for cybersecurity products. I also interned as a quantitative researcher for State Street Global Advisors, developing strategies for identifying alpha in fixed-income asset portfolios.
-
